@@ -16,4 +16,5 @@ embed,
 iframe {
     width: min(100%, 2000px);
     height: 100vh;
+    margin: 0px;
 }
