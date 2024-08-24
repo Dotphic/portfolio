@@ -12,7 +12,8 @@ body {
     justify-content: center;
 }
 
-embed {
+embed,
+iframe {
     width: min(100%, 2000px);
     height: 100vh;
 }
