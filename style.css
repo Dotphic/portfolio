@@ -18,10 +18,12 @@ iframe {
     height: 100vh;
     border: none;
     margin: 0px;
+    object-fit: contain;
 }
 
 @media (max-width: 768px) {
     iframe {
         height: 80vh;
+        object-fit: contain;
     }
 }
